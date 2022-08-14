@@ -1,3 +1,5 @@
 ## Salminen Wedding
 
-Coming Soon. Stay Tuned.
+Estimated block height of event: 811,500
+
+Stay tuned!
